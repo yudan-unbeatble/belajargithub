@@ -1,3 +1,5 @@
 app Al Quran
 app Downloader
 game MyCrew
+belajar html dan css
+belajar javascript
